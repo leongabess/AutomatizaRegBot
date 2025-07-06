@@ -55,3 +55,8 @@ Com o Python e Selenium instalados:
 
 Basta apenas baixar o arquivo .py e executar.
 
+## Implementações possíveis no futuro
+
+- Interface gráfica
+- Substituir os comandos de ctrl+c
+
