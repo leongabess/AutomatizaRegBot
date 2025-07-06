@@ -3,7 +3,7 @@ Este script automatiza o registro de atendimentos feitos por um bot de conversa,
 
 A primeira versão foi feita com PyAutoGui, funcional, mas limitada (dependência de posição de mouse, tela ativa, etc.). Esta nova versão, feita com Selenium, garante uma automação robusta, confiável e portável entre colaboradores.
 
-## Funcionalidades ⚙️ 
+## Funcionalidades 🔎
 
 - Registro automatizado completo via navegador
 - Uso de WebDriverWait para carregamento dinâmico sem necessidade de sempre utilizar sleep()
