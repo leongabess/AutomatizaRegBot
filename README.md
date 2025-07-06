@@ -49,7 +49,7 @@ Selenium: instale via pip, pelo windows é o comando: `py -m pip install seleniu
 
 [Página oficial](https://selenium-python.readthedocs.io/installation.html), onde também consta a documentação.
 
-##Executando ▶️
+## Executando ▶️
 
 Com o Python e Selenium instalados:
 
