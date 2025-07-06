@@ -1,4 +1,4 @@
-# AutomatizaRegBot 🤖
+# AutomatizaRegBot ⚙
 Este script automatiza o registro de atendimentos feitos por um bot de conversa, cujos dados ficam armazenados em uma planilha (protocolo, número e roteiro utilizado). O processo era feito manualmente no trabalho, o que era repetitivo e sujeito a erros.
 
 A primeira versão foi feita com PyAutoGui, funcional, mas limitada (dependência de posição de mouse, tela ativa, etc.). Esta nova versão, feita com Selenium, garante uma automação robusta, confiável e portável entre colaboradores.
